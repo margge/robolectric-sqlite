@@ -10,7 +10,7 @@ In order to use this library from you Android project using maven your pom shoul
     <dependencies>
         <dependency>
             <groupId>com.seventheye.android</groupId>
-            <artifactId>v</artifactId>
+            <artifactId>robolectric-sqlite</artifactId>
             <version>1.0</version>
             <scope>test</scope>
         </dependency>
